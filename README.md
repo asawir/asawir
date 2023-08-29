@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asawir
-- 👀 I’m interested in software development, web applications and data science
-- 🌱 I’m currently learning third year of BE ISE
-- 💞️ I’m looking to collaborate on react JS
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently serving as programmer Analyst at Cognizant
+- 💞️ I’m looking forward to improve skill in data engineering field
 - 📫 You can reach me on asawir@gmail.com
 
 <!---
